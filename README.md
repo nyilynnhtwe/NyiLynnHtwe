@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...Machine Learning
+- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on a project that provides digital literacy to Burmese. 
+- 👯 I’m looking to collaborate on above project.(If your are interested about this proj,contact me via email)
 <!--
 **nyilynnhtwe/NyiLynnHtwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
